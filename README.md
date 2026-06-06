@@ -54,7 +54,7 @@ Hi! I'm **Shahtab Hossain** — a developer and designer who loves bridging the 
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🤖 **Restaurant Management** | Shows the backbone of how a restaurant works | C++ |
-| 📱 **UniMail** | AI Summarized mail prioratizing system with event management | Kotlin, Android |
+| 📱 **UniMail** | AI Summarized mail prioritizing system with event management | Kotlin, Android |
 | 🎨 **Various Branding** | Graphics posters and designs for various events and brands | Canva, Illustrator |
 
 
